@@ -108,7 +108,7 @@
 |084. OverloadedCounter	                |Completed		
 |085. Reformatory                     	|Completed		
 |086. LyyraCardAndRegister	            |Completed		
-|087. ApartmentComparison		
+|087. ApartmentComparison		        |Completed
 |088. Students			
 |089. ClockObject			
 |090. TeamAndPlayers			
