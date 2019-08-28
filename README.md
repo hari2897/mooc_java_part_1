@@ -2,8 +2,8 @@
 
 ## This repo includes the exercises completed by me for the six weeks of the course .
 
-| WEEK 1 :                         | Status       |
-| -------------------------------- | -----------: |
+| WEEK 1 :                         | Status  |
+| -------------------------------- | ---------: |
 | 000. Sandbox                          |Completed         |		
 | 001. Name                             |Completed 		    
 |002. HelloWorld                        |Completed		
@@ -85,7 +85,7 @@
 |071. SmartCombining	                  |Completed		
 
 
-| ### WEEK 4:                           |Status  |
+|  WEEK 4:                           |Status  |
 | -------------------------------- | -----------:|
 |072. 1.YourFirstAccount              	|Completed		
 |072. 2.YourFirstMoneyTransfer        	|Completed		
