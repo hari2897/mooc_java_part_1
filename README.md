@@ -2,7 +2,7 @@
 
 ## This repo includes the exercises completed by me for the six weeks of the course .
 
-#WEEK 1 :                              Status
+# WEEK 1 :                              Status
 
 000.Sandbox			
 001.Name                            	completed		
@@ -30,7 +30,7 @@
 023.Temperatures	                    completed		
 024.NhlStatisticsPart2	              completed	
 
-#WEEK 2:
+# WEEK 2:
 
 025.SumOfThreeNumbers	                completed		
 026.SumOfManyNumbers                	completed		
@@ -51,7 +51,7 @@
 041.GuessingNumberGame              	completed		
 042.Hangman	                          completed	
 
-#WEEK 3: 
+# WEEK 3: 
 
 043.SumOfNumbers                    	completed		
 044.Least	                            completed		
@@ -83,7 +83,7 @@
 070.CombiningArrayLists             	completed		
 071.SmartCombining	                  completed		
 
-#WEEK 4:
+# WEEK 4:
 
 072.1.YourFirstAccount              	completed		
 072.2.YourFirstMoneyTransfer        	completed		
@@ -100,7 +100,7 @@
 082.Lottery	                          completed		
 083.HangmanLogic	                    completed		
 
-#WEEK 5:
+# WEEK 5:
 
 084.OverloadedCounter	                completed		
 085.Reformatory                     	completed		
@@ -113,4 +113,4 @@
 092.DifferenceDate			
 093.PersonExtended			
 
-#WEEK 6:
+# WEEK 6:
