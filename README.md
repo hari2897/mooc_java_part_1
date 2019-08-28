@@ -1,6 +1,6 @@
-#My mooc course on Object Oriented Programming in Java Part 1
+# My mooc course on Object Oriented Programming in Java Part 1
 
-##This repo includes the exercises completed by me for the six weeks of the course .
+## This repo includes the exercises completed by me for the six weeks of the course .
 
 #WEEK 1 :                                Status
 
