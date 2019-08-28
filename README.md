@@ -2,115 +2,122 @@
 
 ## This repo includes the exercises completed by me for the six weeks of the course .
 
-### WEEK 1 :                              Status
+| WEEK 1 :                         | Status       |
+| -------------------------------- | -----------: |
+| 000. Sandbox                          |Completed         |		
+| 001. Name                             |Completed 		    
+|002. HelloWorld                        |Completed		
+|003. Spruce                          	|Completed		
+|004. ChangingVariables                 |Completed		
+|005. SecondsOfTheYear	                |Completed		
+|006. Addition	                        |Completed		
+|007. Multiplication                  	|Completed		
+|008. Adder	                            |Completed		
+|009. Divider                         	|Completed		
+|010. CircleCircumference	              |Completed		
+|011. BiggerNumber                      |Completed		
+|012. SumOfTheAges	                    |Completed		
+|013. NhlStatisticsPart1	              |Completed		
+|014. PositiveValue	                    |Completed		
+|015. AgeOfMajority                   	|Completed		
+|016. EvenOrOdd	                        |Completed		
+|017. GreaterNumber	                    |Completed		
+|018. GradesAndPoints	                  |Completed		
+|019. AgeCheck	                        |Completed		
+|020. Usernames	                        |Completed		
+|021. LeapYear	                        |Completed		
+|022. Password	                        |Completed		
+|023. Temperatures	                    |Completed		
+|024. NhlStatisticsPart2	              |Completed	
 
-000. Sandbox			
-001. Name                            	completed		
-002. HelloWorld                      	completed		
-003. Spruce                          	completed		
-004. ChangingVariables               	completed		
-005. SecondsOfTheYear	                completed		
-006. Addition	                        completed		
-007. Multiplication                  	completed		
-008. Adder	                            completed		
-009. Divider                         	completed		
-010. CircleCircumference	            completed		
-011. BiggerNumber                       completed		
-012. SumOfTheAges	                    completed		
-013. NhlStatisticsPart1	                completed		
-014. PositiveValue	                    completed		
-015. AgeOfMajority                   	completed		
-016. EvenOrOdd	                        completed		
-017. GreaterNumber	                    completed		
-018. GradesAndPoints	                completed		
-019. AgeCheck	                        completed		
-020. Usernames	                        completed		
-021. LeapYear	                        completed		
-022. Password	                        completed		
-023. Temperatures	                    completed		
-024. NhlStatisticsPart2	                completed	
+| WEEK 2 :                         | Status       |
+| -------------------------------- | -----------: |
+|025. SumOfThreeNumbers	                |Completed		
+|026. SumOfManyNumbers                	|Completed		
+|027. FromOneToHundred                	|Completed		
+|028. FromHundredToOne                	|Completed		
+|029. EvenNumbers	                      |Completed		
+|030. UpToCertainNumber	                |Completed		
+|031. LowerLimitAndUpperLimit         	|Completed		
+|032. TheSumOfSetOfNumbers	            |Completed		
+|033. TheSumBetweenTwoNumbers	          |Completed		
+|034. Factorial	                        |Completed		
+|035. SumOfThePowers                  	|Completed		
+|036. LoopsEndingRemembering	          |Completed		
+|037. PrintingOutText	                  |Completed		
+|038. ManyPrints	                      |Completed		
+|039. Printing	                        |Completed		
+|040. PrintingLikeboss	                |Completed		
+|041. GuessingNumberGame              	|Completed		
+|042. Hangman	                          |Completed	
 
-### WEEK 2:
 
-025. SumOfThreeNumbers	                completed		
-026. SumOfManyNumbers                	completed		
-027. FromOneToHundred                	completed		
-028. FromHundredToOne                	completed		
-029. EvenNumbers	                    completed		
-030. UpToCertainNumber	                completed		
-031. LowerLimitAndUpperLimit         	completed		
-032. TheSumOfSetOfNumbers	            completed		
-033. TheSumBetweenTwoNumbers	        completed		
-034. Factorial	                        completed		
-035. SumOfThePowers                  	completed		
-036. LoopsEndingRemembering	            completed		
-037. PrintingOutText	                completed		
-038. ManyPrints	                        completed		
-039. Printing	                        completed		
-040. PrintingLikeboss	                completed		
-041. GuessingNumberGame              	completed		
-042. Hangman	                        completed	
+|  WEEK 3 :                        | Status       | 
+| -------------------------------- | -----------: |
+|043. SumOfNumbers                    	|Completed		
+|044. Least	                            |Completed		
+|045. Greatest                        	|Completed		
+|046. AverageOfGivenNumbers             |Completed		
+|047. LengthOfName	                    |Completed		
+|048. FirstCharacter                  	|Completed		
+|049. LastCharacter	                    |Completed		
+|050. SeparatingFirstCharacters	        |Completed		
+|051. SeparatingCharacters            	|Completed		
+|052. ReversingName	                    |Completed		
+|053. FirstPart	                        |Completed		
+|054. TheEndPart	                      |Completed		
+|055. WordInsideWord	                  |Completed		
+|056. ReversingText	                    |Completed		
+|057. Words	                            |Completed		
+|058. RecurringWord	                    |Completed		
+|059. WordsInReverseOrder             	|Completed		
+|060. WordsInAlphabeticalOrder	        |Completed		
+|061. NumberOfItems	                    |Completed		
+|062. RemoveLast                      	|Completed		
+|063. SumOfNumbers	                    |Completed		
+|064. AverageOfNumbers	        	      |Completed
+|065. LengthsOfStrings			            |Completed
+|066. TheGreatest	                      |Completed		
+|067. TheVariance                      	|Completed		
+|068. MoreThanOnce                     	|Completed		
+|069. Palindrome	                      |Completed		
+|070. CombiningArrayLists             	|Completed		
+|071. SmartCombining	                  |Completed		
 
-### WEEK 3: 
 
-043. SumOfNumbers                    	completed		
-044. Least	                            completed		
-045. Greatest                        	completed		
-046. AverageOfGivenNumbers           	completed		
-047. LengthOfName	                    completed		
-048. FirstCharacter                  	completed		
-049. LastCharacter	                    completed		
-050. SeparatingFirstCharacters	        completed		
-051. SeparatingCharacters            	completed		
-052. ReversingName	                    completed		
-053. FirstPart	                        completed		
-054. TheEndPart	                        completed		
-055. WordInsideWord	                    completed		
-056. ReversingText	                    completed		
-057. Words	                            completed		
-058. RecurringWord	                    completed		
-059. WordsInReverseOrder             	completed		
-060. WordsInAlphabeticalOrder	        completed		
-061. NumberOfItems	                    completed		
-062. RemoveLast                      	completed		
-063. SumOfNumbers	                    completed		
-064. AverageOfNumbers	        	    completed
-065. LengthsOfStrings			        completed
-066. TheGreatest	                    completed		
-067. TheVariance                     	completed		
-068. MoreThanOnce                     	completed		
-069. Palindrome	                        completed		
-070. CombiningArrayLists             	completed		
-071. SmartCombining	                    completed		
+| ### WEEK 4:                           |Status  |
+| -------------------------------- | -----------:|
+|072. 1.YourFirstAccount              	|Completed		
+|072. 2.YourFirstMoneyTransfer        	|Completed		
+|072. 3.MoneyTransfers	                |Completed		
+|073. Product	                          |Completed		
+|074. Multiplier                      	|Completed		
+|075. DecreasingCounter	                |Completed		
+|076. Menu                            	|Completed		
+|077. LyyraCard	                        |Completed		
+|078. ClockUsingCounter	                |Completed		
+|079. NumberStatistics	                |Completed		
+|080. Dice	                            |Completed		
+|081. PasswordRandomizer              	|Completed		
+|082. Lottery	                          |Completed		
+|083. HangmanLogic	                    |Completed		
 
-### WEEK 4:
 
-072. 1.YourFirstAccount              	completed		
-072. 2.YourFirstMoneyTransfer        	completed		
-072. 3.MoneyTransfers	                completed		
-073. Product	                        completed		
-074. Multiplier                      	completed		
-075. DecreasingCounter	                completed		
-076. Menu                            	completed		
-077. LyyraCard	                        completed		
-078. ClockUsingCounter	                completed		
-079. NumberStatistics	                completed		
-080. Dice	                            completed		
-081. PasswordRandomizer              	completed		
-082. Lottery	                        completed		
-083. HangmanLogic	                    completed		
+| WEEK 5:                          | Status       |
+| -------------------------------- | -----------: |
+|084. OverloadedCounter	                |Completed		
+|085. Reformatory                     	|Completed		
+|086. LyyraCardAndRegister	            |Completed		
+|087. ApartmentComparison		
+|088. Students			
+|089. ClockObject			
+|090. TeamAndPlayers			
+|091. ExtendingMyDate			
+|092. DifferenceDate			
+|093. PersonExtended			
 
-### WEEK 5:
 
-084. OverloadedCounter	                completed		
-085. Reformatory                     	completed		
-086. LyyraCardAndRegister	            completed		
-087. ApartmentComparison			
-088. Students			
-089. ClockObject			
-090. TeamAndPlayers			
-091. ExtendingMyDate			
-092. DifferenceDate			
-093. PersonExtended			
+| WEEK 6:                          | Status       |
+| -------------------------------- | -----------: |
+|Pending                           |Pending
 
-### WEEK 6:
