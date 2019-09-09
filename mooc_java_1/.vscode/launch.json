@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "mooc-2013-OOProgrammingWithJava-PART1_63f99d7"
+        }
+    ]
+}
