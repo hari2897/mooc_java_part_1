@@ -105,16 +105,16 @@
 
 | WEEK 5:                          | Status       |
 | -------------------------------- | -----------: |
-|084. OverloadedCounter	                |Completed		
-|085. Reformatory                     	|Completed		
-|086. LyyraCardAndRegister	            |Completed		
-|087. ApartmentComparison		        |Completed
-|088. Students			
-|089. ClockObject			
-|090. TeamAndPlayers			
-|091. ExtendingMyDate			
-|092. DifferenceDate			
-|093. PersonExtended			
+|084. OverloadedCounter	           |Completed		
+|085. Reformatory                  |Completed		
+|086. LyyraCardAndRegister	       |Completed		
+|087. ApartmentComparison		       |Completed
+|088. Students			               |Completed
+|089. ClockObject			             |Completed
+|090. TeamAndPlayers			         |Completed   
+|091. ExtendingMyDate			         |Completed
+|092. DifferenceDate			         |Completed
+|093. PersonExtended			         |Completed
 
 
 | WEEK 6:                          | Status       |
