@@ -119,5 +119,17 @@
 
 | WEEK 6:                          | Status       |
 | -------------------------------- | -----------: |
-|Pending                           |Pending
+|094. PhoneBook                     |Completed
+|095. Money                         |Completed
+|096. SumOfArray                    |Completed
+|097. ElegantPrinting               |Completed
+|098. CopyAndReverse                |Completed
+|099. ArrayToStars                  |Completed
+|100. NightSky                      |Completed
+|101. Library                       |Completed
+|102. GradeDistribution             |Completed
+|103. Birdwatcher                   |Completed
+|104. Sorting                       |Completed
+|105. GuessingGame                  |Completed
+|106. BinarySearch                  |Completed
 
